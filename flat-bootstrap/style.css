@@ -118,3 +118,32 @@ form.contact-form textarea {
 	background: rgb(130,0,94);
 }
 
+/* TEMA WEB */
+.site-branding-text h1 a{
+	color: pink;
+	font-family: Helvetica,Arial,Verdana,sans-serif;
+	background-color: #f2f2f2;
+}
+
+/*texto hola mundo*/
+
+
+/* enlace del menu superior */
+.navbar-nav>li>a:visited, a:link, a:hover {
+	color: blue;
+	background: red;
+}
+#secondary aside>ul>li>a{
+
+	background-color: #f2f2f2;
+}
+
+
+.entry-title a {
+
+color: orange;
+background-color: #f2f2f2;
+
+}
+.site-title 
+
