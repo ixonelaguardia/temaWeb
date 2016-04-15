@@ -22,7 +22,7 @@ See readme.txt file for license information on components used in this theme.
 
 /* Set page header to dark blue */
 .content-header {
-	background-color: #34495e;
+	background-color:rgb(130,0,94) ; /* #34495e */
 	color: #fff;
 }
 .content-header h1, 
@@ -120,19 +120,24 @@ form.contact-form textarea {
 
 /* TEMA WEB */
 .site-branding-text h1 a{
-	color: pink;
+	color: rgb(130,0,94);
+	font-size: 70px;
+	    font-weight: 500;
 	font-family: Helvetica,Arial,Verdana,sans-serif;
-	background-color: #f2f2f2;
+	background-color: none;
 }
 
 /*texto hola mundo*/
 
 
 /* enlace del menu superior */
+/* BACKGRAUND EN ROJO
 .navbar-nav>li>a:visited, a:link, a:hover {
 	color: blue;
 	background: red;
 }
+*/
+
 #secondary aside>ul>li>a{
 
 	background-color: #f2f2f2;
@@ -141,9 +146,10 @@ form.contact-form textarea {
 
 .entry-title a {
 
-color: orange;
+color: rgb(130,0,94);
 background-color: #f2f2f2;
 
 }
-.site-title 
+
+
 

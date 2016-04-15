@@ -202,7 +202,7 @@ p.screen-reader-text {
 
 .site-title a, .site-title a:hover, .site-title a:active {
 	text-decoration: none;
-	color: red;
+	color: rgb(130,0,94);
 
 
 
@@ -274,7 +274,7 @@ article.post {
 footer.entry-meta, 
 div.entry-meta, 
 .edit-link {
-	font-size: 16px;
+	font-size: 20px;
 }
 .edit-link a {
 	color: #7f8c8d;
